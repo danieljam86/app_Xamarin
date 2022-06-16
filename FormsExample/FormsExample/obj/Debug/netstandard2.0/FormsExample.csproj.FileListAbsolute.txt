@@ -1,0 +1,16 @@
+D:\Projetos\FormsExample\FormsExample\FormsExample\bin\Debug\netstandard2.0\FormsExample.deps.json
+D:\Projetos\FormsExample\FormsExample\FormsExample\bin\Debug\netstandard2.0\FormsExample.dll
+D:\Projetos\FormsExample\FormsExample\FormsExample\bin\Debug\netstandard2.0\FormsExample.pdb
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.csproj.AssemblyReference.cache
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.AssemblyInfoInputs.cache
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.AssemblyInfo.cs
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.csproj.CoreCompileInputs.cache
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.dll
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\refint\FormsExample.dll
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\FormsExample.pdb
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\ref\FormsExample.dll
+D:\Projetos\FormsExample\FormsExample\FormsExample\obj\Debug\netstandard2.0\ContentPageExample.xaml.g.cs
